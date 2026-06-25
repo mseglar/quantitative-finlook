@@ -4,13 +4,8 @@
 ## Objectives
 
 * Apply theoretical concepts from the course in a practical setting
-* Experiment with models, tools, and techniques related to financial markets
-* Develop a deeper understanding through hands-on implementation
+* Experiment with quant models, python libraries and techniques related to financial markets 
 * Keep track of exercises, prototypes, and exploratory analyses
-
-## Scope
-
-The content of this repository may include code implementations (e.g., pricing models, simulations, data analysis)
 
 ## Disclaimer
 
