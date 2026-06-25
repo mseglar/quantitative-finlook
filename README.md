@@ -1,5 +1,5 @@
 # 📊📈 Quantitative FinLook 
-### This repository is a workspace for exploring and testing concepts learned in a financial markets course at the University of Geneva (UniGe).
+### This repository is a workspace for exploring and testing concepts learned in a financial markets course at the University of Geneva (UniGe) and for training the usage of TensorFlow, Torch, Sparks and Scikit-learn
 
 ## Objectives
 
@@ -10,17 +10,13 @@
 
 ## Scope
 
-The content of this repository may include:
-
-* Code implementations (e.g., pricing models, simulations, data analysis)
-* Notes and summaries of key concepts
-* Small experiments and prototypes
-* Coursework-related materials 
+The content of this repository may include code implementations (e.g., pricing models, simulations, data analysis)
 
 ## Disclaimer
 
 This repository is for the storage of educational concepts and tests only.
 
----
+---------------------------
 
 *Maintained as part of ongoing learning and experimentation.*
+
